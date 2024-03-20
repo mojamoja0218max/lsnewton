@@ -1,0 +1,11 @@
+Package: lsnewton
+Title: The least squares method based on Newton's algorithm
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yunyi", "Wang", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9079-6801"))
+Description: This package implements the Newton's algorithm for solving the least square regression.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
